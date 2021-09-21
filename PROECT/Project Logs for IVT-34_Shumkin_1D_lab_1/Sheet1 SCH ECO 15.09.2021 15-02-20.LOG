@@ -1,0 +1,4 @@
+Change Net Color : Net Name= +5 Old Net Color=Black New Net Color=Default
+Change Net Color : Net Name= GND Old Net Color=Default New Net Color=RGB(191, 0, 191)
+Change Pin Designator/Name:  Old Designator=C4-+ Old Name=+ New Designator =- New Name=-
+Change Pin Designator/Name:  Old Designator=C4-- Old Name=- New Designator =+ New Name=+
